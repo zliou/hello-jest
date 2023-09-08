@@ -12,7 +12,7 @@ jest my_lib.test.js
 ```
 
 Assertions and other test functionality:
-* `expect(expression).toBe(expected_value);
+* `expect(expression).toBe(expected_value);`
 * `.toHaveBeenCalled()`
 * `.toBeUndefined()`
 * `.toHaveLength(n)`

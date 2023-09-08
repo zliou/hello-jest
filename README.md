@@ -4,3 +4,5 @@ Zachary Liou
 
 Small project for learning Jest basics.
 
+See `LEARNING_NOTES.md`.
+
