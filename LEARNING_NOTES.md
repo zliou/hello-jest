@@ -8,7 +8,7 @@ Zachary Liou
 
 * Run tests with Jest:
 ```
-jest my_lib.test.js
+npx jest my_lib.test.js
 ```
 
 Assertions and other test functionality:

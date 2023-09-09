@@ -2,7 +2,7 @@
 
 Zachary Liou
 
-Small project for learning Jest basics.
+Small project for learning Jest basics, as well as ESLint.
 
 See `LEARNING_NOTES.md`.
 
